@@ -27,10 +27,11 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/https://www.linkedin.com/in/shrishti-shukla-6a0a5932b" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/shrishti-shukla-6a0a5932b" height="30" width="40" /></a>
-<a href="https://instagram.com/https://www.instagram.com/designly_2006?igsh=mtljcxnod2tmyjy1zq==" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="https://www.instagram.com/designly_2006?igsh=mtljcxnod2tmyjy1zq==" height="30" width="40" /></a>
-<a href="https://www.leetcode.com/https://leetcode.com/u/shrishtishukla/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="https://leetcode.com/u/shrishtishukla/" height="30" width="40" /></a>
-<a href="https://discord.gg/https://discord.gg/5vZtbqd5" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="https://discord.gg/5vZtbqd5" height="30" width="40" /></a>
+<a href="https://twitter.com/@shrishtish95538" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@shrishtish95538" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/shrishti shukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="shrishti shukla" height="30" width="40" /></a>
+<a href="https://instagram.com/designly_2006" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="designly_2006" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/shrishtishukla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="shrishtishukla" height="30" width="40" /></a>
+<a href="https://discord.gg/Let's code today" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/discord.svg" alt="Let's code today" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
