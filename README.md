@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm shrishti shukla</h1>
-<h3 align="center">A passionate developer from Mumbai, India</h3>
+<h3 align="center">A passionate developer and founder of Designly (sketching- startup) </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shrishtishukla-0&label=Profile%20views&color=0e75b6&style=flat" alt="shrishtishukla-0" /> </p>
 
@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **AI related projects**
 
-- 🌱 I’m currently learning **Java, iOS, Web development,Dsa**
+- 🌱 I’m currently learning **Java, iOS, Web development,DSA**
 
 - 👯 I’m looking to collaborate **with other developers**
 
