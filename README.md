@@ -21,7 +21,7 @@
 
 - 📫 How to reach me **shrishtishukla01332@gmail.com**
 
-- 📄 Know about my experiences [1 year](1 year)
+- 📄 Know about my experiences [1 year]
 
 - ⚡ Fun fact **during free time I'm work as a sketch artist:)**
 
