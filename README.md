@@ -23,7 +23,7 @@
 
 - 📄 Know about my experiences [1 year]
 
-- ⚡ Fun fact **during free time I'm work as a sketch artist:)**
+- ⚡ Fun fact **during free time I'm work as a sketch artist:) check out my artwork on instagram**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
