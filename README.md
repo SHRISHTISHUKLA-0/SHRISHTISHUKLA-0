@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **Java, iOS, Web development,DSA**
 
-- 👯 I’m looking to collaborate **with other developers**
+- 👯 I’m looking to collaborate **with other developers & open source**
 
 - 🤝 I’m always looking for help in **upcoming projects**
 
